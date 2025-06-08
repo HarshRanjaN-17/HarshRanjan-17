@@ -1,14 +1,14 @@
-<h1 align="center">Heyy 👋, Harsh Ranjan here (welcome to my Yard)</h1>
+<h1 align="center">Heyy 👋, welcome to my Yard</h1>
 <h3 align="center">A codinig and ML enthusiasm</h3>
 <img align="right" alt="Coding" width="300" height="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshranjan-17&label=Profile%20views&color=0e75b6&style=flat" alt="harshranjan-17" /> </p>
 
-- 👨‍🎓 I'm a **student**
+- 👨‍🎓 **Product Engineer**
 
-- 📖 Pursuing my B.Tech **in AI&ML**
+- 📖 B.Tech in **Computer Science (AI & ML)**
 
-- 📫 I'm here : **harshranjan105@gmail.com**
+- 📫 Available at : **harshranjan105@gmail.com**
 
 - ⚡ Fun fact : **Talk is cheap, show me the code**
 
